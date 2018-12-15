@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rahulky/UnitTestProject1/_apis/build/status/rahuyada46.GitTest?branchName=master)](https://dev.azure.com/rahulky/UnitTestProject1/_build/latest?definitionId=4?branchName=master)
 
 # Contributing
 
